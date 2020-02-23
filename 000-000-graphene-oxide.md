@@ -1,6 +1,6 @@
 # Graphene Oxide
 
-Precursor for Graphene deposition 
+Precursor for Graphene deposition
 
 ## Source
 
@@ -14,43 +14,41 @@ Precursor for Graphene deposition
 
 ### Heated plate with magnetic stirrer
 
-### graphite
-
 [Bay Carbon, SP-1 graphite](https://www.baycarbon.com/SP1Summary.htm) from [Large-area ultrathin films of reduced graphene oxide as a transparent and flexible electronic material](https://www.nature.com/articles/nnano.2008.83)
 
-### potassium permanganate
+potassium permanganate
 
-### 96(-98%) concentrated sulphuric acid
+96(-98%) concentrated sulphuric acid
 
-### 75% concentrated phosphoric acid
+75% concentrated phosphoric acid
 
-### large beaker - sized to hold graphite, potassium permanganate, and acids
+large beaker - sized to hold graphite, potassium permanganate, and acids
 
-### lid for large beaker
+lid for large beaker
 
-### small beaker - sized to hold acids
+small beaker - sized to hold acids
 
-### glass stirring rod
+glass stirring rod
 
-### stir bar for magnetic stirrer
+stir bar for magnetic stirrer
 
-### ice from deionized water
+ice from deionized water
 
-### large glass cylinder - sized to hold ice, "browny, purple liquid", hydrogen peroxide
+large glass cylinder - sized to hold ice, "browny, purple liquid", hydrogen peroxide
 
-### 35% hydrogen peroxide
+35% hydrogen peroxide
 
-### graduated eye dropper
+graduated eye dropper
 
-### small beaker, sized for hydrogen peroxide
+small beaker, sized for hydrogen peroxide
 
-### XX micron mesh filter (mesh same size as graphite)
+XXX fill in with SP-1 micron number XXX micron mesh filter (mesh same size as graphite)
 
-### polyester fiber filter
+polyester fiber filter
 
-### 30% hydrochloric acid
+30% hydrochloric acid
 
-### ethanol
+ethanol
 
 ## "Tour Method"
 
