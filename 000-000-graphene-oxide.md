@@ -66,7 +66,7 @@ Small beaker, sized for hydrogen peroxide
 
 Metal U.S. Standard testing sieve (W.S. Tyler, 300μm) [2]
 
-5 polyester ﬁber filters (Carpenter Co.; not sure which) [2]
+5 polyester ﬁber filters (Carpenter Co.; TODO: not sure which) [2]
 
 PTFE membrane with 0.45μm pore size
 
