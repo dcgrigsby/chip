@@ -14,7 +14,7 @@ Precursor for Graphene deposition
 
 ### Heated plate with magnetic stirrer
 
-[Bay Carbon, SP-1 graphite](https://www.baycarbon.com/SP1Summary.htm) from [Large-area ultrathin films of reduced graphene oxide as a transparent and flexible electronic material](https://www.nature.com/articles/nnano.2008.83)
+[Bay Carbon, SP-1 graphite](https://www.baycarbon.com/SP1Summary.htm) (from [Large-area ultrathin films of reduced graphene oxide as a transparent and flexible electronic material](https://www.nature.com/articles/nnano.2008.83))
 
 potassium permanganate
 
