@@ -86,27 +86,27 @@ Ether
 
 Mix 3g graphite and 18 potassium permanganate (1:6 ratio) in large beaker.
 
-Mix 360ml sulfuric acid and 40ml of phosphoric acid (9:1 ratio) in small beaker.
+Mix 360mL sulfuric acid and 40mL of phosphoric acid (9:1 ratio) in small beaker.
 
 Start stirring the large beaker and slowly pour in acid. "You'll see it go green almost immediately." [1]  Temp will rise to about 35-40C. [2]
 
 Stir covered at 50C for 12 hours, resulting in "browny, purple liquid." [1]  Leave to cool to room temperature.
 
-Make ice from 400mm deionized water and add to large glass cylinder. Slowly pour in "browny, purple liquid" [1], add 3ml hydrogen peroxide using eye dropper and stir.  A "nice bright yellow graphene oxide" will form [1].
+Make ice from 400mm deionized water and add to large glass cylinder. Slowly pour in "browny, purple liquid" [1], add 3mL hydrogen peroxide using eye dropper and stir.  A "nice bright yellow graphene oxide" will form [1].
 
 Sift mixture through testing sieve, then ﬁltered through polyester ﬁber.  
 
 Centrifuge filtrate at 4000 rpm for 4 h.  Decant (pour off) supernatant (liquid on top).
 
-Wash remaining solid with 200ml water.  Sift through sieve, filter through polyester fiber, and centrifuge as before.
+Wash remaining solid with 200mL water.  Sift through sieve, filter through polyester fiber, and centrifuge as before.
 
-Wash with 200ml of 30% hydrochloric acid.  Sift through sieve, filter through polyester fiber, and centrifuge as before.
+Wash with 200mL of 30% hydrochloric acid.  Sift through sieve, filter through polyester fiber, and centrifuge as before.
 
-Wash with 200ml of ethanol.  Sift through sieve, filter through polyester fiber, and centrifuge as before.
+Wash with 200mL of ethanol.  Sift through sieve, filter through polyester fiber, and centrifuge as before.
 
-Wash once more with 200ml of ethanol.  Sift through sieve, filter through polyester fiber, and centrifuge as before.
+Wash once more with 200mL of ethanol.  Sift through sieve, filter through polyester fiber, and centrifuge as before.
 
-[Coagulate](https://www.quora.com/What-is-coagulation-in-chemistry) with 200ml ether (resulting in a suspension) and filter over PTFE membrane.
+[Coagulate](https://www.quora.com/What-is-coagulation-in-chemistry) with 200mL ether (resulting in a suspension) and filter over PTFE membrane.
 
 Vacuum dry overnight.  (Is vacuum drying and vacuum desiccating the same?)
 
